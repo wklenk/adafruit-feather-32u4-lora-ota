@@ -55,7 +55,7 @@ static const u1_t PROGMEM APPKEY[16] = { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x0
 Please note that APP EUI and Device EUI have to be specified in "little endian format". There are
 buttons in the TTN console that help you to convert the number sequences into LSB format.
 
-![LSB output in TTN console][https://github.com/wklenk/adafruit-feather-32u4-lora-ota/media/ttn_console_lsb.png]
+![LSB output in TTN console][https://github.com/wklenk/adafruit-feather-32u4-lora-ota/blob/master/media/ttn_console_lsb.png]
 
 ## What does it do?
 
