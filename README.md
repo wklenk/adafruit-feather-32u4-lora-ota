@@ -70,5 +70,6 @@ After a successful join, the blink rate changes from 1 second to 5 seconds.
 **Note**: The use of a so-called [Single-Channel-Gateway](https://www.thethingsnetwork.org/wiki/Hardware/Gateways/Single-Channel-Gateway)
 is not recommended, as it only supports **one** of the three join frequencies. 
 So, you only have 1:3 chance that the join operation actually hits the single one supported frequency. 
-Additionally, it is unclear if these kind of gateways support the communication from TTN back to the device.
+Additionally, it is unclear if these kind of gateways support the communication from TTN back to the device,
+so probably you will never ever get a feedback that the join operation was successful.
 
